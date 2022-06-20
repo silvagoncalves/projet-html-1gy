@@ -4,6 +4,7 @@
 
 Pour éditer le projet, utiliser le site https://gitpod.io en rajoutant la chaîne `gitpod.io#` devant l'URL de votre dépôt Github. Par exemple, pour éditer ce dépôt, il faut utiliser l'URL `gitpod.io#https://github.com/informatiquecsud/projet-html-1gy` (https://gitpod.io#https://github.com/informatiquecsud/projet-html-1gy)
 
+
 ## Ouvrir le terminal sur Gitpod
 
 Pour ouvrir le terminal, cliquez sur **View => Terminal** (Raccourci : `Ctrl + tréma`)
@@ -21,6 +22,9 @@ Le port TCP 8080 n'est pas libre, vous pouvez essayer d'utiliser un nombre nombr
 ## Sauvegarder les modifications dans Github
 
 Une fois les modifications faites sur Github, il faut utiliser les commandes suivantes pour pousser les modificatins sur Github
+
+> **Attention**
+> Si votre serveur de développement tourne, le terminal sera bloqué. Il faut soit quitter le serveur de développement avec le raccourci `Ctrl + C` ou démarrer un nouveau terminal pour insérer les commandes.
 
 1. Ajouter les fichiers à la zone de transit. Dans le terminal
 
