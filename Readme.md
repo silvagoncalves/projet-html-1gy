@@ -9,6 +9,10 @@ Pour éditer le projet, utiliser le site https://gitpod.io en rajoutant la chaî
 
 Pour ouvrir le terminal, cliquez sur **View => Terminal** (Raccourci : `Ctrl + tréma`)
 
+## Collaborer sur le projet dans gitpod
+
+Il est possible de collaborer sur un même projet dans gitpod. Pour ce faire, il suffit de partager votre workspace gitpod avec l'option **Share running workspace** dans le menu de gitpod.
+
 ## Lancer le serveur de développement
 
 Pour lancer le serveur de développement permettant de prévisualiser la page, ouvrez un nouveau terminal si nécessaire et tapez la commande
