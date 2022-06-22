@@ -9,3 +9,9 @@ h2.blue {
 #h2-special {
     border: 2px solid rgb(0, 128, 107);
 }
+figure { width: 90%;
+         display: block;
+         margin-right: auto;
+        margin-left: auto;}
+
+
