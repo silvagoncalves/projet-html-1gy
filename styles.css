@@ -1,3 +1,6 @@
+h1.green {
+    color:rgb(0, 128, 107)
+}
 h2.green {
     color: rgb(0, 128, 107);
 }
@@ -6,7 +9,7 @@ h2.blue {
     color: rgb(0, 174, 255);
 }
 
-#h2-special {
+#h1-special {
     border: 2px solid rgb(0, 128, 107);
 }
 figure { width: 90%;
