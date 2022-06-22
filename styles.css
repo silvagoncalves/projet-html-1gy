@@ -3,9 +3,9 @@ h2.red {
 }
 
 h2.blue {
-    color: blue;
+    color: rgb(0, 174, 255);
 }
 
 #h2-special {
-    border: 2px solid green;
+    border: 2px solid rgb(0, 128, 107);
 }
